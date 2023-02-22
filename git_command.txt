@@ -4,7 +4,7 @@ git config --global user.name "Grape1000"
 git init
 git add .
 git commit -m "test push"
-git push main
+git push origin main
 
 第一次拉取代码：
 git init
